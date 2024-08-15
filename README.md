@@ -18,4 +18,5 @@ A Tableau dashboard was created to visualize the cleaned data. The dashboard pro
 Offers detailed insights into specific countries, highlighting key statistics such as total percent affected over time.<br>
 
 **Conclusion**<br>
-The Covid Death and Vaccine Data Analysis project provides valuable insights into the pandemic's impact. Through comprehensive data exploration and cleaning using SQL, and interactive visualizations with Tableau, this project highlights significant trends and regional variations in Covid-19 infected rates.
+The Covid Death and Vaccine Data Analysis project provides valuable insights into the pandemic's impact. Through comprehensive data exploration and cleaning using SQL, and interactive visualizations with Tableau, this project highlights significant trends and regional variations in Covid-19 infected rates.<br>
+![image](https://github.com/NikitaPPatil/Global-Covid-19-Impact-Dashboard/blob/main/Dashboard.png)
