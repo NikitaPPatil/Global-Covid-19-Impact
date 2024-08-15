@@ -1,4 +1,4 @@
-# Covid_Death-Vaccine
+# Global Covid-19 Impact Dashboard
 
 **Project Overview**<br>
 This project focuses on analyzing Covid-19 Death and Vaccine data . The main objective was to perform thorough data exploration and cleaning, followed by the creation of an insightful Tableau dashboard. The dashboard helps visualize key metrics and trends related to Covid-19 deaths and vaccination rates across different regions, providing a clearer understanding of the pandemic's impact worldwide.<br>
